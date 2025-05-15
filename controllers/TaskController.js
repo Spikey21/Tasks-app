@@ -1,6 +1,6 @@
 import * as Task from "../models/task.model.js"
 
-export class TaskController {
+export class TasksController {
     constructor() {
         this.init()
     }
