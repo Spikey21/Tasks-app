@@ -1,0 +1,15 @@
+{
+  "name": "tasks-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.1"
+  }
+}
